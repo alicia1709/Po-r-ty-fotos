@@ -1,6 +1,6 @@
 .img-fluid {
   max-width: 100%;
   height: auto;
-  max-height: 250px; /* ajuste o valor que quiser */
+  max-height: 100px; /* ajuste o valor que quiser */
   object-fit: cover;
 }
